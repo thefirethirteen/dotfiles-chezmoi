@@ -3,6 +3,7 @@ import:
 
 font:
   normal:
+    # Download: https://github.com/romkatv/powerlevel10k#manual-font-installation
     family: MesloLGS NF
     style: Regular
   size: 12
