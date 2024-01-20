@@ -1,0 +1,12 @@
+import:
+  - ~/.config/alacritty/solarized.yml
+
+font:
+  normal:
+    family: MesloLGS NF
+    style: Regular
+  size: 12
+  glyph_offset:
+    x: -1
+    y: -1
+
