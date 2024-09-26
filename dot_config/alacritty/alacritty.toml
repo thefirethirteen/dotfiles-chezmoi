@@ -1,4 +1,6 @@
-import = ["~/.config/alacritty/solarized.toml"]
+# Import theme
+# Themes can be downloaded from https://github.com/alacritty/alacritty-theme
+import = ["~/.config/alacritty/themes/solarized_dark.toml"]
 
 [font]
 size = 12
@@ -11,3 +13,8 @@ y = -1
 [font.normal]
 family = "MesloLGS NF"
 style = "Regular"
+
+[keyboard]
+bindings = [
+   { key = "Return", mods = "Control|Shift", action = "SpawnNewInstance" }
+]
