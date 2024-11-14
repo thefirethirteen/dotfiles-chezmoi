@@ -1,5 +1,6 @@
 # Import theme
 # Themes can be downloaded from https://github.com/alacritty/alacritty-theme
+[general]
 import = ["~/.config/alacritty/themes/solarized_dark.toml"]
 
 [font]
